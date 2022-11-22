@@ -1,0 +1,12 @@
+torch
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+torch-geometric 
+pygraphviz
+requests
+pandas
+numpy
+beautifulsoup4
+git+https://github.com/deepset-ai/haystack.git#egg=farm-haystack[colab]

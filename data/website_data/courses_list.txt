@@ -1,0 +1,649 @@
+
+
+                            <table class="table table-bordered">
+                                <thead>
+                                    <th>Departments / Programs / Instructor(s):</th>
+                                </thead>
+                                <tbody>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=ASIA&bolum=ASIAN+STUDIES">
+                                    
+                                    
+                                    ASIAN STUDIES
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=ASIA&bolum=ASIAN+STUDIES+WITH+THESIS">
+                                    
+                                    
+                                    ASIAN STUDIES WITH THESIS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=ATA&bolum=ATATURK+INSTITUTE+FOR+MODERN+TURKISH+HISTORY">
+                                    
+                                    
+                                    ATATURK INSTITUTE FOR MODERN TURKISH HISTORY
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=AUTO&bolum=AUTOMOTIVE+ENGINEERING">
+                                    
+                                    
+                                    AUTOMOTIVE ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=BM&bolum=BIOMEDICAL+ENGINEERING">
+                                    
+                                    
+                                    BIOMEDICAL ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=BIS&bolum=BUSINESS+INFORMATION+SYSTEMS">
+                                    
+                                    
+                                    BUSINESS INFORMATION SYSTEMS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=BIS&bolum=BUSINESS+INFORMATION+SYSTEMS+(WITH+THESIS)">
+                                    
+                                    
+                                    BUSINESS INFORMATION SYSTEMS (WITH THESIS)
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=CHE&bolum=CHEMICAL+ENGINEERING">
+                                    
+                                    
+                                    CHEMICAL ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=CHEM&bolum=CHEMISTRY">
+                                    
+                                    
+                                    CHEMISTRY
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=CE&bolum=CIVIL+ENGINEERING">
+                                    
+                                    
+                                    CIVIL ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=COGS&bolum=COGNITIVE+SCIENCE">
+                                    
+                                    
+                                    COGNITIVE SCIENCE
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=CSE&bolum=COMPUTATIONAL+SCIENCE+%26+ENGINEERING">
+                                    
+                                    
+                                    COMPUTATIONAL SCIENCE & ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=CET&bolum=COMPUTER+EDUCATION+%26+EDUCATIONAL+TECHNOLOGY">
+                                    
+                                    
+                                    COMPUTER EDUCATION & EDUCATIONAL TECHNOLOGY
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=CMPE&bolum=COMPUTER+ENGINEERING">
+                                    
+                                    
+                                    COMPUTER ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=CEM&bolum=CONSTRUCTION+ENGINEERING+AND+MANAGEMENT">
+                                    
+                                    
+                                    CONSTRUCTION ENGINEERING AND MANAGEMENT
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=PRED&bolum=EARLY+CHILDHOOD+EDUCATION">
+                                    
+                                    
+                                    EARLY CHILDHOOD EDUCATION
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=EQE&bolum=EARTHQUAKE+ENGINEERING">
+                                    
+                                    
+                                    EARTHQUAKE ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=EC&bolum=ECONOMICS">
+                                    
+                                    
+                                    ECONOMICS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=EF&bolum=ECONOMICS+AND+FINANCE">
+                                    
+                                    
+                                    ECONOMICS AND FINANCE
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=ED&bolum=EDUCATIONAL+SCIENCES">
+                                    
+                                    
+                                    EDUCATIONAL SCIENCES
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=CET&bolum=EDUCATIONAL+TECHNOLOGY">
+                                    
+                                    
+                                    EDUCATIONAL TECHNOLOGY
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=EE&bolum=ELECTRICAL+%26+ELECTRONICS+ENGINEERING">
+                                    
+                                    
+                                    ELECTRICAL & ELECTRONICS ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=ETM&bolum=ENGINEERING+AND+TECHNOLOGY+MANAGEMENT">
+                                    
+                                    
+                                    ENGINEERING AND TECHNOLOGY MANAGEMENT
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=LL&bolum=ENGLISH+LITERATURE">
+                                    
+                                    
+                                    ENGLISH LITERATURE
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=ENV&bolum=ENVIRONMENTAL+SCIENCES">
+                                    
+                                    
+                                    ENVIRONMENTAL SCIENCES
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=ENVT&bolum=ENVIRONMENTAL+TECHNOLOGY">
+                                    
+                                    
+                                    ENVIRONMENTAL TECHNOLOGY
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=XMBA&bolum=EXECUTIVE+MBA">
+                                    
+                                    
+                                    EXECUTIVE MBA
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=FE&bolum=FINANCIAL+ENGINEERING">
+                                    
+                                    
+                                    FINANCIAL ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=PA&bolum=FINE+ARTS">
+                                    
+                                    
+                                    FINE ARTS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=FLED&bolum=FOREIGN+LANGUAGE+EDUCATION">
+                                    
+                                    
+                                    FOREIGN LANGUAGE EDUCATION
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=GED&bolum=GEODESY">
+                                    
+                                    
+                                    GEODESY
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=GPH&bolum=GEOPHYSICS">
+                                    
+                                    
+                                    GEOPHYSICS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=GUID&bolum=GUIDANCE+%26+PSYCHOLOGICAL+COUNSELING">
+                                    
+                                    
+                                    GUIDANCE & PSYCHOLOGICAL COUNSELING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=HIST&bolum=HISTORY">
+                                    
+                                    
+                                    HISTORY
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=HUM&bolum=HUMANITIES+COURSES+COORDINATOR">
+                                    
+                                    
+                                    HUMANITIES COURSES COORDINATOR
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=IE&bolum=INDUSTRIAL+ENGINEERING">
+                                    
+                                    
+                                    INDUSTRIAL ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=INCT&bolum=INTERNATIONAL+COMPETITION+AND+TRADE">
+                                    
+                                    
+                                    INTERNATIONAL COMPETITION AND TRADE
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=MIR&bolum=INTERNATIONAL+RELATIONS%3aTURKEY%2cEUROPE+AND+THE+MIDDLE+EAST">
+                                    
+                                    
+                                    INTERNATIONAL RELATIONS:TURKEY,EUROPE AND THE MIDDLE EAST
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=MIR&bolum=INTERNATIONAL+RELATIONS%3aTURKEY%2cEUROPE+AND+THE+MIDDLE+EAST+WITH+THESIS">
+                                    
+                                    
+                                    INTERNATIONAL RELATIONS:TURKEY,EUROPE AND THE MIDDLE EAST WITH THESIS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=INTT&bolum=INTERNATIONAL+TRADE">
+                                    
+                                    
+                                    INTERNATIONAL TRADE
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=INTT&bolum=INTERNATIONAL+TRADE+MANAGEMENT">
+                                    
+                                    
+                                    INTERNATIONAL TRADE MANAGEMENT
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=LAW&bolum=LAW+PR.">
+                                    
+                                    
+                                    LAW PR.
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=LS&bolum=LEARNING+SCIENCES">
+                                    
+                                    
+                                    LEARNING SCIENCES
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=LING&bolum=LINGUISTICS">
+                                    
+                                    
+                                    LINGUISTICS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=AD&bolum=MANAGEMENT">
+                                    
+                                    
+                                    MANAGEMENT
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=MIS&bolum=MANAGEMENT+INFORMATION+SYSTEMS">
+                                    
+                                    
+                                    MANAGEMENT INFORMATION SYSTEMS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=MATH&bolum=MATHEMATICS">
+                                    
+                                    
+                                    MATHEMATICS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=SCED&bolum=MATHEMATICS+AND+SCIENCE+EDUCATION">
+                                    
+                                    
+                                    MATHEMATICS AND SCIENCE EDUCATION
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=ME&bolum=MECHANICAL+ENGINEERING">
+                                    
+                                    
+                                    MECHANICAL ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=MECA&bolum=MECHATRONICS+ENGINEERING+(WITH+THESIS)">
+                                    
+                                    
+                                    MECHATRONICS ENGINEERING (WITH THESIS)
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=MECA&bolum=MECHATRONICS+ENGINEERING+(WITHOUT+THESIS)">
+                                    
+                                    
+                                    MECHATRONICS ENGINEERING (WITHOUT THESIS)
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=BIO&bolum=MOLECULAR+BIOLOGY+%26+GENETICS">
+                                    
+                                    
+                                    MOLECULAR BIOLOGY & GENETICS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=PHIL&bolum=PHILOSOPHY">
+                                    
+                                    
+                                    PHILOSOPHY
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=PE&bolum=PHYSICAL+EDUCATION">
+                                    
+                                    
+                                    PHYSICAL EDUCATION
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=PHYS&bolum=PHYSICS">
+                                    
+                                    
+                                    PHYSICS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=POLS&bolum=POLITICAL+SCIENCE%26INTERNATIONAL+RELATIONS">
+                                    
+                                    
+                                    POLITICAL SCIENCE&INTERNATIONAL RELATIONS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=PSY&bolum=PSYCHOLOGY">
+                                    
+                                    
+                                    PSYCHOLOGY
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=YADYOK&bolum=SCHOOL+OF+FOREIGN+LANGUAGES">
+                                    
+                                    
+                                    SCHOOL OF FOREIGN LANGUAGES
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=SPL&bolum=SOCIAL+POLICY+WITH+THESIS">
+                                    
+                                    
+                                    SOCIAL POLICY WITH THESIS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=SOC&bolum=SOCIOLOGY">
+                                    
+                                    
+                                    SOCIOLOGY
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=SWE&bolum=SOFTWARE+ENGINEERING">
+                                    
+                                    
+                                    SOFTWARE ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=SWE&bolum=SOFTWARE+ENGINEERING+WITH+THESIS">
+                                    
+                                    
+                                    SOFTWARE ENGINEERING WITH THESIS
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=TRM&bolum=SUSTAINABLE+TOURISM+MANAGEMENT">
+                                    
+                                    
+                                    SUSTAINABLE TOURISM MANAGEMENT
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=SCO&bolum=SYSTEMS+%26+CONTROL+ENGINEERING">
+                                    
+                                    
+                                    SYSTEMS & CONTROL ENGINEERING
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=TRM&bolum=TOURISM+ADMINISTRATION">
+                                    
+                                    
+                                    TOURISM ADMINISTRATION
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=WTR&bolum=TRANSLATION">
+                                    
+                                    
+                                    TRANSLATION
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=TR&bolum=TRANSLATION+AND+INTERPRETING+STUDIES">
+                                    
+                                    
+                                    TRANSLATION AND INTERPRETING STUDIES
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=TK&bolum=TURKISH+COURSES+COORDINATOR">
+                                    
+                                    
+                                    TURKISH COURSES COORDINATOR
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=TKL&bolum=TURKISH+LANGUAGE+%26+LITERATURE">
+                                    
+                                    
+                                    TURKISH LANGUAGE & LITERATURE
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=PRSO&bolum=UNDERGRADUATE+PROGRAM+IN+PRESCHOOL+EDUCATION">
+                                    
+                                    
+                                    UNDERGRADUATE PROGRAM IN PRESCHOOL EDUCATION
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            <tr>
+                                <td><a href="/scripts/sch.asp?donem=2022/2023-1&kisaadi=LL&bolum=WESTERN+LANGUAGES+%26+LITERATURES">
+                                    
+                                    
+                                    WESTERN LANGUAGES & LITERATURES
+                                                                        
+                                </a></td>
+                            </tr>
+                        
+                            </tbody>
+                        </table>
