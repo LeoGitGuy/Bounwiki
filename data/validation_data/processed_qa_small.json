@@ -1,0 +1,3084 @@
+{
+    "MECA": [
+        {
+            "question": "Who teaches control system design?",
+            "id": 597097,
+            "answers": [
+                {
+                    "answer_id": 646647,
+                    "document_id": 1202582,
+                    "question_id": 597097,
+                    "text": "MEHMET AKAR",
+                    "answer_start": 332,
+                    "answer_end": 343,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Which day is meca503.01?",
+            "id": 597098,
+            "answers": [
+                {
+                    "answer_id": 646652,
+                    "document_id": 1202582,
+                    "question_id": 597098,
+                    "text": "StStSt",
+                    "answer_start": 191,
+                    "answer_end": 197,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What does MECA 579 stand for?",
+            "id": 597095,
+            "answers": [
+                {
+                    "answer_id": 646642,
+                    "document_id": 1202581,
+                    "question_id": 597095,
+                    "text": "\tGRADUATE SEMINAR",
+                    "answer_start": 53,
+                    "answer_end": 70,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "How many ects do you get for meca 594?",
+            "id": 597096,
+            "answers": [
+                {
+                    "answer_id": 646645,
+                    "document_id": 1202581,
+                    "question_id": 597096,
+                    "text": "3",
+                    "answer_start": 280,
+                    "answer_end": 281,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "BIS": [
+        {
+            "question": "Which days is BIS 690.05?",
+            "id": 623696,
+            "answers": [
+                {
+                    "answer_id": 673739,
+                    "document_id": 1202609,
+                    "question_id": 623696,
+                    "text": "No Day specified",
+                    "answer_start": 980,
+                    "answer_end": 996,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who teaches CYBERSECURITY FOR BUSINESS?",
+            "id": 623694,
+            "answers": [
+                {
+                    "answer_id": 673737,
+                    "document_id": 1202608,
+                    "question_id": 623694,
+                    "text": "B\u0130LG\u0130N MET\u0130N",
+                    "answer_start": 632,
+                    "answer_end": 644,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173322": [
+        {
+            "question": "Where is the Superdorm?",
+            "id": 583820,
+            "answers": [
+                {
+                    "answer_id": 673323,
+                    "document_id": 1173322,
+                    "question_id": 583820,
+                    "text": "Ucaksavar Campus",
+                    "answer_start": 0,
+                    "answer_end": 16,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is the basketball court in Ucaksavar campus?",
+            "id": 623592,
+            "answers": [
+                {
+                    "answer_id": 673324,
+                    "document_id": 1173322,
+                    "question_id": 623592,
+                    "text": "There is a sports complex",
+                    "answer_start": 140,
+                    "answer_end": 165,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the shortcode for the life long learning center?",
+            "id": 623593,
+            "answers": [
+                {
+                    "answer_id": 673325,
+                    "document_id": 1173322,
+                    "question_id": 623593,
+                    "text": "BUYEM",
+                    "answer_start": 234,
+                    "answer_end": 239,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173329": [
+        {
+            "question": "When is the Add Drop Period?",
+            "id": 583828,
+            "answers": [
+                {
+                    "answer_id": 644363,
+                    "document_id": 1173329,
+                    "question_id": 583828,
+                    "text": "Add/Drop Period\nOne week after courses begin, the registration system is reopened the Add/Drop Period, when you can modify your course list by adding or dropping courses.",
+                    "answer_start": 4155,
+                    "answer_end": 4325,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "At which time does registration start?",
+            "id": 583825,
+            "answers": [
+                {
+                    "answer_id": 644360,
+                    "document_id": 1173329,
+                    "question_id": 583825,
+                    "text": "The registration system opens at 10:00 on the scheduled date.",
+                    "answer_start": 1736,
+                    "answer_end": 1797,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "How can I make a consent request?",
+            "id": 583826,
+            "answers": [
+                {
+                    "answer_id": 644361,
+                    "document_id": 1173329,
+                    "question_id": 583826,
+                    "text": "How to Make a Consent Request\nClick on \u201cConsent Requests\u201d below the main screen and send a message to the instructor of the course. Write a message stating providing name and number of the course you would like to take.",
+                    "answer_start": 3358,
+                    "answer_end": 3577,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where can I see my schedule?",
+            "id": 583827,
+            "answers": [
+                {
+                    "answer_id": 644362,
+                    "document_id": 1173329,
+                    "question_id": 583827,
+                    "text": "Viewing Your Schedule\nBefore sending your schedule for approval, you can use the \u201cSchedule\u201d screen to check whether you have any conflicts in your program. ",
+                    "answer_start": 3718,
+                    "answer_end": 3874,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When is the withdrawing period?",
+            "id": 583829,
+            "answers": [
+                {
+                    "answer_id": 673451,
+                    "document_id": 1173329,
+                    "question_id": 583829,
+                    "text": " roughly one month after the Add/Drop Period",
+                    "answer_start": 4865,
+                    "answer_end": 4909,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Is there any possibility to drop a course and select another one ?",
+            "id": 623607,
+            "answers": [
+                {
+                    "answer_id": 673460,
+                    "document_id": 1173329,
+                    "question_id": 623607,
+                    "text": "you can modify your course list by adding or dropping courses",
+                    "answer_start": 4263,
+                    "answer_end": 4324,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Can we change courses during the add/drop period?",
+            "id": 623608,
+            "answers": [
+                {
+                    "answer_id": 673484,
+                    "document_id": 1173329,
+                    "question_id": 623608,
+                    "text": "you can modify your course list by adding or dropping courses",
+                    "answer_start": 4263,
+                    "answer_end": 4324,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "For whom are remote exams available?",
+            "id": 623609,
+            "answers": [
+                {
+                    "answer_id": 673487,
+                    "document_id": 1173329,
+                    "question_id": 623609,
+                    "text": "to the Exchange or Erasmus students",
+                    "answer_start": 5259,
+                    "answer_end": 5294,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173324": [
+        {
+            "question": "Where is saritepe campus situated?",
+            "id": 623595,
+            "answers": [
+                {
+                    "answer_id": 673329,
+                    "document_id": 1173324,
+                    "question_id": 623595,
+                    "text": "on the shores of the Black Sea",
+                    "answer_start": 34,
+                    "answer_end": 64,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When has saritepe campus been given to bogazici university?",
+            "id": 623596,
+            "answers": [
+                {
+                    "answer_id": 673330,
+                    "document_id": 1173324,
+                    "question_id": 623596,
+                    "text": "1985",
+                    "answer_start": 182,
+                    "answer_end": 186,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173338": [
+        {
+            "question": "What is the number of days where I must register my phone?",
+            "id": 623617,
+            "answers": [
+                {
+                    "answer_id": 673594,
+                    "document_id": 1173338,
+                    "question_id": 623617,
+                    "text": "Within 120 days",
+                    "answer_start": 329,
+                    "answer_end": 344,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the total cost to use your phone from home?",
+            "id": 623618,
+            "answers": [
+                {
+                    "answer_id": 673598,
+                    "document_id": 1173338,
+                    "question_id": 623618,
+                    "text": "200TL",
+                    "answer_start": 447,
+                    "answer_end": 452,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173336": [
+        {
+            "question": "Can I make an internship or work while I'm in turkey?",
+            "id": 583840,
+            "answers": [
+                {
+                    "answer_id": 673580,
+                    "document_id": 1173336,
+                    "question_id": 583840,
+                    "text": "Foreign nationals who are in Turkey on a Student Residence Permit  are not allowed do any kind of paid work, including paid internships.",
+                    "answer_start": 0,
+                    "answer_end": 136,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What do most unpaid, volunteer positions involve?",
+            "id": 623615,
+            "answers": [
+                {
+                    "answer_id": 673583,
+                    "document_id": 1173336,
+                    "question_id": 623615,
+                    "text": "teaching English",
+                    "answer_start": 773,
+                    "answer_end": 789,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173340": [
+        {
+            "question": "Where can I make a photo for the residence permit?",
+            "id": 583850,
+            "answers": [
+                {
+                    "answer_id": 644385,
+                    "document_id": 1173340,
+                    "question_id": 583850,
+                    "text": " Closest to the university, there is a shop in Hisar \u00dcst\u00fc, one in Bebek, and one in Levent that takes photographs to official specifications.",
+                    "answer_start": 4212,
+                    "answer_end": 4353,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When should i apply for residence permit?",
+            "id": 583847,
+            "answers": [
+                {
+                    "answer_id": 673602,
+                    "document_id": 1173340,
+                    "question_id": 583847,
+                    "text": "Your status as a student can be legally verified by the University only after the online course registration period has finished",
+                    "answer_start": 2017,
+                    "answer_end": 2145,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Do I need a biometric photo for the residence permit?",
+            "id": 583849,
+            "answers": [
+                {
+                    "answer_id": 644384,
+                    "document_id": 1173340,
+                    "question_id": 583849,
+                    "text": "Only biometric photos are accepted",
+                    "answer_start": 4036,
+                    "answer_end": 4070,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Don't we need a residence permit as well?\n",
+            "id": 623619,
+            "answers": [
+                {
+                    "answer_id": 673601,
+                    "document_id": 1173340,
+                    "question_id": 623619,
+                    "text": " if you are planning to stay more than 90 days, you must obtain a Residence Permit",
+                    "answer_start": 237,
+                    "answer_end": 319,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who is responsible for the legal status while in turkey?",
+            "id": 623620,
+            "answers": [
+                {
+                    "answer_id": 673606,
+                    "document_id": 1173340,
+                    "question_id": 623620,
+                    "text": "Students",
+                    "answer_start": 1096,
+                    "answer_end": 1104,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173348": [
+        {
+            "question": "How many books are borrowed on an average day at the library?",
+            "id": 623634,
+            "answers": [
+                {
+                    "answer_id": 673643,
+                    "document_id": 1173348,
+                    "question_id": 623634,
+                    "text": "660 books",
+                    "answer_start": 315,
+                    "answer_end": 324,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Does someone know at what hour opens the library in North Campus ?",
+            "id": 623632,
+            "answers": [
+                {
+                    "answer_id": 673641,
+                    "document_id": 1173348,
+                    "question_id": 623632,
+                    "text": "Library is open 24/7 during the academic year",
+                    "answer_start": 805,
+                    "answer_end": 850,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the seating capacity of bogazici main library?",
+            "id": 623633,
+            "answers": [
+                {
+                    "answer_id": 673642,
+                    "document_id": 1173348,
+                    "question_id": 623633,
+                    "text": "1,000 seating capacity ",
+                    "answer_start": 143,
+                    "answer_end": 166,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173318": [
+        {
+            "question": "Where is Saritepe Campus?",
+            "id": 583815,
+            "answers": [
+                {
+                    "answer_id": 644350,
+                    "document_id": 1173318,
+                    "question_id": 583815,
+                    "text": " Saritepe Campus, near Kilyos on the Black Sea coast is 34 km from South Campus",
+                    "answer_start": 455,
+                    "answer_end": 534,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where are the oldest buildings of the University?",
+            "id": 623004,
+            "answers": [
+                {
+                    "answer_id": 672410,
+                    "document_id": 1173318,
+                    "question_id": 623004,
+                    "text": "South Campus",
+                    "answer_start": 54,
+                    "answer_end": 66,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173332": [
+        {
+            "question": "Where do I see my transcript?",
+            "id": 583836,
+            "answers": [
+                {
+                    "answer_id": 673517,
+                    "document_id": 1173332,
+                    "question_id": 583836,
+                    "text": "by logging into your Bo\u011fazi\u00e7i University account",
+                    "answer_start": 30,
+                    "answer_end": 78,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Can transcripts be sent by e-mail?",
+            "id": 623611,
+            "answers": [
+                {
+                    "answer_id": 673520,
+                    "document_id": 1173332,
+                    "question_id": 623611,
+                    "text": "they cannot be sent by e-mail",
+                    "answer_start": 359,
+                    "answer_end": 388,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173337": [
+        {
+            "question": "What is the superdorm?",
+            "id": 583841,
+            "answers": [
+                {
+                    "answer_id": 644376,
+                    "document_id": 1173337,
+                    "question_id": 583841,
+                    "text": "The SuperdormThe Superdorm is the dormitory where Erasmus+, Exchange, Freemover, and Visiting Students can stay.",
+                    "answer_start": 1,
+                    "answer_end": 113,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where can i go for information about how payments are made at the superdorm?",
+            "id": 623616,
+            "answers": [
+                {
+                    "answer_id": 673587,
+                    "document_id": 1173337,
+                    "question_id": 623616,
+                    "text": " see the Superdorm website",
+                    "answer_start": 279,
+                    "answer_end": 305,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173345": [
+        {
+            "question": "What courses are offered in fine arts?",
+            "id": 583857,
+            "answers": [
+                {
+                    "answer_id": 644393,
+                    "document_id": 1173345,
+                    "question_id": 583857,
+                    "text": "Department of Fine Arts offers theoretical and practical courses on ballet, music, ceramics, sculpture, applied arts, graphics, drama, photography and painting.",
+                    "answer_start": 0,
+                    "answer_end": 160,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is fine arts department?",
+            "id": 583858,
+            "answers": [
+                {
+                    "answer_id": 673631,
+                    "document_id": 1173345,
+                    "question_id": 583858,
+                    "text": "in several different buildings on the South Campus",
+                    "answer_start": 187,
+                    "answer_end": 237,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173328": [
+        {
+            "question": "Where can I get a Bogazici E-Mail Address?",
+            "id": 583824,
+            "answers": [
+                {
+                    "answer_id": 673439,
+                    "document_id": 1173328,
+                    "question_id": 583824,
+                    "text": "Computer Center, Bo\u011fazi\u00e7i \u0130\u015flem Merkezi",
+                    "answer_start": 155,
+                    "answer_end": 194,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What do i need to access the moodle classes?",
+            "id": 623606,
+            "answers": [
+                {
+                    "answer_id": 673447,
+                    "document_id": 1173328,
+                    "question_id": 623606,
+                    "text": "a BOUN e-mail account",
+                    "answer_start": 15,
+                    "answer_end": 36,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173333": [
+        {
+            "question": "When and where do I get my bogazici student card?",
+            "id": 583832,
+            "answers": [
+                {
+                    "answer_id": 673503,
+                    "document_id": 1173333,
+                    "question_id": 583832,
+                    "text": "from the Office of International Relations typically on the day of Orientation.",
+                    "answer_start": 183,
+                    "answer_end": 262,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What can I do with the bogazici student card?",
+            "id": 583833,
+            "answers": [
+                {
+                    "answer_id": 673496,
+                    "document_id": 1173333,
+                    "question_id": 583833,
+                    "text": "Is used as a debit card for buying meals in the cafeterias on campus.",
+                    "answer_start": 587,
+                    "answer_end": 656,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What happens if I lose my student card?",
+            "id": 583835,
+            "answers": [
+                {
+                    "answer_id": 644370,
+                    "document_id": 1173333,
+                    "question_id": 583835,
+                    "text": "If you lose your Student ID Card\nYou can ask if anyone has turned it into the Lost and Found (located in the Office of Student Affairs) or apply for a new one from the Office of Student Affairs.",
+                    "answer_start": 2121,
+                    "answer_end": 2315,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173335": [
+        {
+            "question": "Do I need a passport to enter turkey?",
+            "id": 623612,
+            "answers": [
+                {
+                    "answer_id": 673559,
+                    "document_id": 1173335,
+                    "question_id": 623612,
+                    "text": "All students must enter Turkey with a valid passport!",
+                    "answer_start": 364,
+                    "answer_end": 417,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What do i need to obtain if i come to bogazici as a researcher?",
+            "id": 623613,
+            "answers": [
+                {
+                    "answer_id": 673570,
+                    "document_id": 1173335,
+                    "question_id": 623613,
+                    "text": "an Internship or Researcher class visa at the Turkish consulate or embassy from your home country",
+                    "answer_start": 542,
+                    "answer_end": 639,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173341": [
+        {
+            "question": " Maybe stupid question but are we required to have health insurance ?",
+            "id": 623621,
+            "answers": [
+                {
+                    "answer_id": 673610,
+                    "document_id": 1173341,
+                    "question_id": 623621,
+                    "text": "the Republic of Turkey requires that international students prove that they have health insurance for the duration of their stay in Turkey",
+                    "answer_start": 42,
+                    "answer_end": 180,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Ok so basically our European insurances are enough ?",
+            "id": 623622,
+            "answers": [
+                {
+                    "answer_id": 673616,
+                    "document_id": 1173341,
+                    "question_id": 623622,
+                    "text": "Public insurance for EU students whose countries have public insurance agreement with Turkey",
+                    "answer_start": 493,
+                    "answer_end": 585,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What do I need health insurance for?",
+            "id": 623623,
+            "answers": [
+                {
+                    "answer_id": 673620,
+                    "document_id": 1173341,
+                    "question_id": 623623,
+                    "text": "To apply for a Student Residence Permit",
+                    "answer_start": 1,
+                    "answer_end": 40,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173344": [
+        {
+            "question": "What types of sports are offered at the university?",
+            "id": 583859,
+            "answers": [
+                {
+                    "answer_id": 673635,
+                    "document_id": 1173344,
+                    "question_id": 583859,
+                    "text": "aerobics, aikido, football, track and field, badminton, basketball, cycling, fencing, soccer, handball, gymnastics, rowing, table tennis, tennis, taekwondo-do, triathlon, volleyball, sailing and skiing",
+                    "answer_start": 51,
+                    "answer_end": 252,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Hey guys, do you know if there are sport clubs within the school or do we have to go outside?",
+            "id": 623630,
+            "answers": [
+                {
+                    "answer_id": 673636,
+                    "document_id": 1173344,
+                    "question_id": 623630,
+                    "text": "Current extra-curricular sports offerings",
+                    "answer_start": 0,
+                    "answer_end": 41,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173346": [
+        {
+            "question": "What are the canteen opening times on north campus?",
+            "id": 583861,
+            "answers": [
+                {
+                    "answer_id": 673640,
+                    "document_id": 1173346,
+                    "question_id": 583861,
+                    "text": "open for lunch between noon and 2 p.m. and for dinner between 18.00-19.30",
+                    "answer_start": 327,
+                    "answer_end": 400,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "How long is the canteen on south campus open?",
+            "id": 583862,
+            "answers": [
+                {
+                    "answer_id": 673639,
+                    "document_id": 1173346,
+                    "question_id": 583862,
+                    "text": "The cafeteria on South Campus is open for lunch between noon and 2 p.m",
+                    "answer_start": 449,
+                    "answer_end": 519,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Is there a post office on the campus?",
+            "id": 583863,
+            "answers": [
+                {
+                    "answer_id": 673638,
+                    "document_id": 1173346,
+                    "question_id": 583863,
+                    "text": "There is a Post Office on the North Campus, at the first floor of the Science and Technology Building",
+                    "answer_start": 2239,
+                    "answer_end": 2340,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Is the health care center in south campus?",
+            "id": 623631,
+            "answers": [
+                {
+                    "answer_id": 673637,
+                    "document_id": 1173346,
+                    "question_id": 623631,
+                    "text": "There is an infirmary on South Campus",
+                    "answer_start": 1442,
+                    "answer_end": 1479,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1202574": [
+        {
+            "question": "What does surname quota restrictions mean?",
+            "id": 597085,
+            "answers": [
+                {
+                    "answer_id": 646615,
+                    "document_id": 1202574,
+                    "question_id": 597085,
+                    "text": "The first letter of your surname is not within the range of the surnames of those who can take that course (for example A through M). In these cases, the course will have a section for which you can register.",
+                    "answer_start": 179,
+                    "answer_end": 387,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the meaning of consent restriction?",
+            "id": 597086,
+            "answers": [
+                {
+                    "answer_id": 646616,
+                    "document_id": 1202574,
+                    "question_id": 597086,
+                    "text": "The \u201cyou need the consent of the instructor\u201d statement means that you need the personal approval of the instructor in order to be able to register for the course",
+                    "answer_start": 515,
+                    "answer_end": 676,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What does it mean if there is 0 quota left?",
+            "id": 597088,
+            "answers": [
+                {
+                    "answer_id": 646618,
+                    "document_id": 1202574,
+                    "question_id": 597088,
+                    "text": "The quota for that course has been filled.",
+                    "answer_start": 19,
+                    "answer_end": 61,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What does it mean if instructor consent is required?",
+            "id": 597087,
+            "answers": [
+                {
+                    "answer_id": 646617,
+                    "document_id": 1202574,
+                    "question_id": 597087,
+                    "text": "The approval of the instructor is required to register for the class",
+                    "answer_start": 705,
+                    "answer_end": 773,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What does quota restriction mean?",
+            "id": 623010,
+            "answers": [
+                {
+                    "answer_id": 672448,
+                    "document_id": 1202574,
+                    "question_id": 623010,
+                    "text": "The quota for that course has been filled.",
+                    "answer_start": 19,
+                    "answer_end": 61,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What are class quoatas exactly?",
+            "id": 623014,
+            "answers": [
+                {
+                    "answer_id": 672452,
+                    "document_id": 1202574,
+                    "question_id": 623014,
+                    "text": "The course is not available for the students of that year or semester.",
+                    "answer_start": 87,
+                    "answer_end": 157,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173319": [
+        {
+            "question": "Where is the Mithat Alam Film Center?",
+            "id": 583816,
+            "answers": [
+                {
+                    "answer_id": 673299,
+                    "document_id": 1173319,
+                    "question_id": 583816,
+                    "text": "South Campus",
+                    "answer_start": 1075,
+                    "answer_end": 1087,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Is there a study space or a library on south campus?\n",
+            "id": 623580,
+            "answers": [
+                {
+                    "answer_id": 673297,
+                    "document_id": 1173319,
+                    "question_id": 623580,
+                    "text": " the old Van Millingen Library which now houses the Rector\u2019s office",
+                    "answer_start": 315,
+                    "answer_end": 382,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is the department for political sciences located?",
+            "id": 623581,
+            "answers": [
+                {
+                    "answer_id": 673298,
+                    "document_id": 1173319,
+                    "question_id": 623581,
+                    "text": "Washburn Hal",
+                    "answer_start": 526,
+                    "answer_end": 538,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is turkish language taught?",
+            "id": 623582,
+            "answers": [
+                {
+                    "answer_id": 673301,
+                    "document_id": 1173319,
+                    "question_id": 623582,
+                    "text": "Natuk Birkan Building",
+                    "answer_start": 872,
+                    "answer_end": 893,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Which faculties are in anderson hall?",
+            "id": 623583,
+            "answers": [
+                {
+                    "answer_id": 673302,
+                    "document_id": 1173319,
+                    "question_id": 623583,
+                    "text": "Faculty of Arts and Sciences-FAS",
+                    "answer_start": 675,
+                    "answer_end": 707,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is south campus situated?",
+            "id": 623584,
+            "answers": [
+                {
+                    "answer_id": 673303,
+                    "document_id": 1173319,
+                    "question_id": 623584,
+                    "text": "on a hill overlooking the Bosphorous and the fortress, Rumeli Hisari.",
+                    "answer_start": 70,
+                    "answer_end": 139,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Does anyone know where exactly the psychology building is?",
+            "id": 623604,
+            "answers": [
+                {
+                    "answer_id": 673411,
+                    "document_id": 1173319,
+                    "question_id": 623604,
+                    "text": "South Campus",
+                    "answer_start": 0,
+                    "answer_end": 12,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173323": [
+        {
+            "question": "When was Kandili Observatory built?",
+            "id": 623594,
+            "answers": [
+                {
+                    "answer_id": 673326,
+                    "document_id": 1173323,
+                    "question_id": 623594,
+                    "text": "1868",
+                    "answer_start": 63,
+                    "answer_end": 67,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173326": [
+        {
+            "question": "What is the meaning of a 3-credit course?",
+            "id": 583822,
+            "answers": [
+                {
+                    "answer_id": 644357,
+                    "document_id": 1173326,
+                    "question_id": 583822,
+                    "text": "A 3-credit course means three hours of weekly lectures or two hours of lectures and two hours of laboratory work every week.",
+                    "answer_start": 182,
+                    "answer_end": 306,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the best grade at Bogazici?",
+            "id": 583823,
+            "answers": [
+                {
+                    "answer_id": 644358,
+                    "document_id": 1173326,
+                    "question_id": 583823,
+                    "text": "AA       Excellent                     4.0",
+                    "answer_start": 1511,
+                    "answer_end": 1553,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What does ECTS stand for?",
+            "id": 623605,
+            "answers": [
+                {
+                    "answer_id": 673430,
+                    "document_id": 1173326,
+                    "question_id": 623605,
+                    "text": "European Credit Transfer System",
+                    "answer_start": 311,
+                    "answer_end": 342,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173331": [
+        {
+            "question": "Can I bring visitors to the campus?",
+            "id": 583830,
+            "answers": [
+                {
+                    "answer_id": 644365,
+                    "document_id": 1173331,
+                    "question_id": 583830,
+                    "text": "Visitors to the university must have an appointment and must leave a photo ID at the gate. Visitors must leave the campus before midnight.",
+                    "answer_start": 351,
+                    "answer_end": 489,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Can I bring visitors to the dormitories?",
+            "id": 583831,
+            "answers": [
+                {
+                    "answer_id": 644366,
+                    "document_id": 1173331,
+                    "question_id": 583831,
+                    "text": "All visitors must sign in and leave a photo ID. No alcohol is allowed, and no overnight guests.",
+                    "answer_start": 506,
+                    "answer_end": 601,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Do I need a student card to enter the campus?",
+            "id": 623610,
+            "answers": [
+                {
+                    "answer_id": 673488,
+                    "document_id": 1173331,
+                    "question_id": 623610,
+                    "text": "They must show photo ID cards",
+                    "answer_start": 57,
+                    "answer_end": 86,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173339": [
+        {
+            "question": "Where is the next post office from university?",
+            "id": 583844,
+            "answers": [
+                {
+                    "answer_id": 673599,
+                    "document_id": 1173339,
+                    "question_id": 583844,
+                    "text": "The post office nearest to Bo\u011fazi\u00e7i University is located in Bebek, the village on the Bosporus just below the South Campus.",
+                    "answer_start": 118,
+                    "answer_end": 242,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "How can I send express post?",
+            "id": 583843,
+            "answers": [
+                {
+                    "answer_id": 673600,
+                    "document_id": 1173339,
+                    "question_id": 583843,
+                    "text": "There is a DHL office just across the street from the South Gate of the university.\nNearest Post Office",
+                    "answer_start": 14,
+                    "answer_end": 117,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173342": [
+        {
+            "question": "What happens if I lose my Istanbulkart?",
+            "id": 583854,
+            "answers": [
+                {
+                    "answer_id": 644389,
+                    "document_id": 1173342,
+                    "question_id": 583854,
+                    "text": " Cancel the lost or stolen card by calling the \u0130ETT call center at 444-1871. Your card has to be canceled before a new one can be issued to your Y\u00d6KSIS number.\nGo to the \u0130ETT main office in Karak\u00f6y and apply to have a replacement card issued. Take your passport with you.",
+                    "answer_start": 2365,
+                    "answer_end": 2636,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where can I buy the istanbulcard?",
+            "id": 583852,
+            "answers": [
+                {
+                    "answer_id": 644387,
+                    "document_id": 1173342,
+                    "question_id": 583852,
+                    "text": "These cards can be purchased with from any of the 2100 counters around the city. ",
+                    "answer_start": 296,
+                    "answer_end": 377,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is a Y\u00f6ksis number?",
+            "id": 623624,
+            "answers": [
+                {
+                    "answer_id": 673625,
+                    "document_id": 1173342,
+                    "question_id": 623624,
+                    "text": "Y\u00d6K, the Council of Higher Education, the branch of the central government is responsible for universities. Y\u00d6K assigns each student a unique number, called a Y\u00d6KSIS number",
+                    "answer_start": 1319,
+                    "answer_end": 1491,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When is the student certificate available?",
+            "id": 623625,
+            "answers": [
+                {
+                    "answer_id": 673626,
+                    "document_id": 1173342,
+                    "question_id": 623625,
+                    "text": "after the online course registration completed for the semester",
+                    "answer_start": 1034,
+                    "answer_end": 1097,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who is the student discount istanbul card available for?",
+            "id": 623626,
+            "answers": [
+                {
+                    "answer_id": 673627,
+                    "document_id": 1173342,
+                    "question_id": 623626,
+                    "text": " to students, including international students in the Erasmus+, Exchange, and Mevlana programs.",
+                    "answer_start": 644,
+                    "answer_end": 739,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Is there monthly ticket for all public transport?",
+            "id": 623627,
+            "answers": [
+                {
+                    "answer_id": 673628,
+                    "document_id": 1173342,
+                    "question_id": 623627,
+                    "text": "The Discount Student Istanbulkart",
+                    "answer_start": 582,
+                    "answer_end": 615,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173343": [
+        {
+            "question": "How many dvd are at the film center?",
+            "id": 623628,
+            "answers": [
+                {
+                    "answer_id": 673629,
+                    "document_id": 1173343,
+                    "question_id": 623628,
+                    "text": "over 7 thousand DVD",
+                    "answer_start": 1052,
+                    "answer_end": 1071,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What are the activities of the film center?",
+            "id": 623629,
+            "answers": [
+                {
+                    "answer_id": 673630,
+                    "document_id": 1173343,
+                    "question_id": 623629,
+                    "text": "showing movies almost every night during the year",
+                    "answer_start": 217,
+                    "answer_end": 266,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "CSE": [
+        {
+            "question": "what days is cse 522.03?",
+            "id": 623710,
+            "answers": [
+                {
+                    "answer_id": 673753,
+                    "document_id": 1202614,
+                    "question_id": 623710,
+                    "text": "No Day specified",
+                    "answer_start": 409,
+                    "answer_end": 425,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1202580": [
+        {
+            "question": "When's the add drop period?",
+            "id": 583751,
+            "answers": [
+                {
+                    "answer_id": 673676,
+                    "document_id": 1202580,
+                    "question_id": 583751,
+                    "text": "October 5-6-7",
+                    "answer_start": 1893,
+                    "answer_end": 1906,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " When does the registration for courses begin?",
+            "id": 583676,
+            "answers": [
+                {
+                    "answer_id": 673674,
+                    "document_id": 1202580,
+                    "question_id": 583676,
+                    "text": "September 22-26",
+                    "answer_start": 1306,
+                    "answer_end": 1321,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Hi guys when it is the open day?",
+            "id": 583677,
+            "answers": [
+                {
+                    "answer_id": 646625,
+                    "document_id": 1202580,
+                    "question_id": 583677,
+                    "text": "September 20\tOrientation (online)",
+                    "answer_start": 1272,
+                    "answer_end": 1305,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Course registration is the 5th right?",
+            "id": 583679,
+            "answers": [
+                {
+                    "answer_id": 646624,
+                    "document_id": 1202580,
+                    "question_id": 583679,
+                    "text": "September 22-26\tRegistration System Opens (online) (10:00)",
+                    "answer_start": 1306,
+                    "answer_end": 1364,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " So then registration is september 5th?",
+            "id": 583681,
+            "answers": [
+                {
+                    "answer_id": 673671,
+                    "document_id": 1202580,
+                    "question_id": 583681,
+                    "text": "September 22-26",
+                    "answer_start": 1306,
+                    "answer_end": 1321,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Isn\u2019t course registration on September 22nd?",
+            "id": 583682,
+            "answers": [
+                {
+                    "answer_id": 673669,
+                    "document_id": 1202580,
+                    "question_id": 583682,
+                    "text": "September 22-26",
+                    "answer_start": 1306,
+                    "answer_end": 1321,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " We are in holiday on the 13th of January right ?",
+            "id": 583685,
+            "answers": [
+                {
+                    "answer_id": 646634,
+                    "document_id": 1202580,
+                    "question_id": 583685,
+                    "text": "January 2-13\tFinal Exams",
+                    "answer_start": 2139,
+                    "answer_end": 2163,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " When did the add and drop start ?",
+            "id": 583790,
+            "answers": [
+                {
+                    "answer_id": 673673,
+                    "document_id": 1202580,
+                    "question_id": 583790,
+                    "text": "October 5-6-7",
+                    "answer_start": 1893,
+                    "answer_end": 1906,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When is the add/drop period of the courses?",
+            "id": 583718,
+            "answers": [
+                {
+                    "answer_id": 673675,
+                    "document_id": 1202580,
+                    "question_id": 583718,
+                    "text": "October 5-6-7",
+                    "answer_start": 1893,
+                    "answer_end": 1906,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " when are orientation days?",
+            "id": 583716,
+            "answers": [
+                {
+                    "answer_id": 673672,
+                    "document_id": 1202580,
+                    "question_id": 583716,
+                    "text": "September 20",
+                    "answer_start": 1272,
+                    "answer_end": 1284,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "How long is the add drop period?",
+            "id": 583795,
+            "answers": [
+                {
+                    "answer_id": 673668,
+                    "document_id": 1202580,
+                    "question_id": 583795,
+                    "text": "October 5-6-7",
+                    "answer_start": 1893,
+                    "answer_end": 1906,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When is the withdrawal period?",
+            "id": 597094,
+            "answers": [
+                {
+                    "answer_id": 673667,
+                    "document_id": 1202580,
+                    "question_id": 597094,
+                    "text": "November 23-29",
+                    "answer_start": 2034,
+                    "answer_end": 2048,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When is deadline for pre-registration?",
+            "id": 623039,
+            "answers": [
+                {
+                    "answer_id": 672491,
+                    "document_id": 1202580,
+                    "question_id": 623039,
+                    "text": "August 18-19",
+                    "answer_start": 1137,
+                    "answer_end": 1149,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the suggested date of arrival for erasmus students?",
+            "id": 623041,
+            "answers": [
+                {
+                    "answer_id": 672493,
+                    "document_id": 1202580,
+                    "question_id": 623041,
+                    "text": "September 19",
+                    "answer_start": 1195,
+                    "answer_end": 1207,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Do you know the last doay of the fall semester?",
+            "id": 623635,
+            "answers": [
+                {
+                    "answer_id": 673656,
+                    "document_id": 1202580,
+                    "question_id": 623635,
+                    "text": "December 27",
+                    "answer_start": 2107,
+                    "answer_end": 2118,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " When does course selection start again?\n",
+            "id": 623636,
+            "answers": [
+                {
+                    "answer_id": 673657,
+                    "document_id": 1202580,
+                    "question_id": 623636,
+                    "text": "September 22-26",
+                    "answer_start": 1306,
+                    "answer_end": 1321,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When does add & drop period end?",
+            "id": 623644,
+            "answers": [
+                {
+                    "answer_id": 673665,
+                    "document_id": 1202580,
+                    "question_id": 623644,
+                    "text": "October 5-6-7",
+                    "answer_start": 1893,
+                    "answer_end": 1906,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Does someone know at what time the add/drop period begins?",
+            "id": 623645,
+            "answers": [
+                {
+                    "answer_id": 673666,
+                    "document_id": 1202580,
+                    "question_id": 623645,
+                    "text": "October 5-6-7",
+                    "answer_start": 1893,
+                    "answer_end": 1906,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Does somebody know when add drop phase ends?",
+            "id": 623647,
+            "answers": [
+                {
+                    "answer_id": 673677,
+                    "document_id": 1202580,
+                    "question_id": 623647,
+                    "text": "October 5-6-7",
+                    "answer_start": 1893,
+                    "answer_end": 1906,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "When do classes start?",
+            "id": 623037,
+            "answers": [
+                {
+                    "answer_id": 672489,
+                    "document_id": 1202580,
+                    "question_id": 623037,
+                    "text": "September 28",
+                    "answer_start": 1731,
+                    "answer_end": 1743,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "At which time period are final exams?",
+            "id": 623578,
+            "answers": [
+                {
+                    "answer_id": 673283,
+                    "document_id": 1202580,
+                    "question_id": 623578,
+                    "text": "January 2-13",
+                    "answer_start": 2139,
+                    "answer_end": 2151,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Which time closes the registration system for student access?",
+            "id": 623579,
+            "answers": [
+                {
+                    "answer_id": 673290,
+                    "document_id": 1202580,
+                    "question_id": 623579,
+                    "text": "23:59",
+                    "answer_start": 1489,
+                    "answer_end": 1494,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "SCO": [
+        {
+            "question": "How many ects gives course SCO 690.07?",
+            "id": 623669,
+            "answers": [
+                {
+                    "answer_id": 673712,
+                    "document_id": 1202595,
+                    "question_id": 623669,
+                    "text": "60",
+                    "answer_start": 414,
+                    "answer_end": 416,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "TR": [
+        {
+            "question": "Which rooms is TR 511.01 in?",
+            "id": 623672,
+            "answers": [
+                {
+                    "answer_id": 673715,
+                    "document_id": 1202597,
+                    "question_id": 623672,
+                    "text": "JF 403 | JF 403 | JF 403",
+                    "answer_start": 181,
+                    "answer_end": 205,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "TK": [
+        {
+            "question": "Which hours is tk 221.05?",
+            "id": 623674,
+            "answers": [
+                {
+                    "answer_id": 673717,
+                    "document_id": 1202599,
+                    "question_id": 623674,
+                    "text": "78",
+                    "answer_start": 406,
+                    "answer_end": 408,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "PRED": [
+        {
+            "question": "What day is PRED579.01 on?",
+            "id": 623723,
+            "answers": [
+                {
+                    "answer_id": 673766,
+                    "document_id": 1202618,
+                    "question_id": 623723,
+                    "text": "W",
+                    "answer_start": 378,
+                    "answer_end": 379,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Which days is Pred 310.01?",
+            "id": 623681,
+            "answers": [
+                {
+                    "answer_id": 673724,
+                    "document_id": 1202601,
+                    "question_id": 623681,
+                    "text": "TTW",
+                    "answer_start": 662,
+                    "answer_end": 665,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "ETM": [
+        {
+            "question": "How many ects gives case studies in etm?",
+            "id": 623824,
+            "answers": [
+                {
+                    "answer_id": 673863,
+                    "document_id": 1202625,
+                    "question_id": 623824,
+                    "text": "1",
+                    "answer_start": 749,
+                    "answer_end": 750,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1202573": [
+        {
+            "question": " Does anyone know where NB119 is ?",
+            "id": 583797,
+            "answers": [
+                {
+                    "answer_id": 646601,
+                    "document_id": 1202573,
+                    "question_id": 583797,
+                    "text": "Natuk Birkan [Basement (B)/Entrance Level (Z)]\tSouth Campus",
+                    "answer_start": 969,
+                    "answer_end": 1028,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Is TB Building the Anderson hall?",
+            "id": 583803,
+            "answers": [
+                {
+                    "answer_id": 646605,
+                    "document_id": 1202573,
+                    "question_id": 583803,
+                    "text": "TB\tAnderson Hall",
+                    "answer_start": 1128,
+                    "answer_end": 1144,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Which building is M 2170 in?",
+            "id": 583736,
+            "answers": [
+                {
+                    "answer_id": 646614,
+                    "document_id": 1202573,
+                    "question_id": 583736,
+                    "text": "Perkins Hall",
+                    "answer_start": 889,
+                    "answer_end": 901,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Does anyone know where ib 312 is?",
+            "id": 583746,
+            "answers": [
+                {
+                    "answer_id": 646600,
+                    "document_id": 1202573,
+                    "question_id": 583746,
+                    "text": "Faculty of Economics and Administrative Sciences\tSouth Campus",
+                    "answer_start": 554,
+                    "answer_end": 615,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Where exactly is JF John Freely Hall?",
+            "id": 583784,
+            "answers": [
+                {
+                    "answer_id": 646607,
+                    "document_id": 1202573,
+                    "question_id": 583784,
+                    "text": "South Campus",
+                    "answer_start": 636,
+                    "answer_end": 648,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is TB building?",
+            "id": 623022,
+            "answers": [
+                {
+                    "answer_id": 672462,
+                    "document_id": 1202573,
+                    "question_id": 623022,
+                    "text": "South Campus",
+                    "answer_start": 1196,
+                    "answer_end": 1208,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What does NH 303 stand for and where is it?",
+            "id": 583730,
+            "answers": [
+                {
+                    "answer_id": 646606,
+                    "document_id": 1202573,
+                    "question_id": 583730,
+                    "text": "NH/YB\tNew Hall/Yeni Bina\tNorth Campus",
+                    "answer_start": 849,
+                    "answer_end": 886,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Which building has M as abbreviation?",
+            "id": 583734,
+            "answers": [
+                {
+                    "answer_id": 646613,
+                    "document_id": 1202573,
+                    "question_id": 583734,
+                    "text": "Perkins Hall",
+                    "answer_start": 889,
+                    "answer_end": 901,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where on earth is John Freely Hall?",
+            "id": 583745,
+            "answers": [
+                {
+                    "answer_id": 646612,
+                    "document_id": 1202573,
+                    "question_id": 583745,
+                    "text": "South Campus",
+                    "answer_start": 636,
+                    "answer_end": 648,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Does anyone know which campus/building IB 312 is at?",
+            "id": 583750,
+            "answers": [
+                {
+                    "answer_id": 646602,
+                    "document_id": 1202573,
+                    "question_id": 583750,
+                    "text": "Faculty of Economics and Administrative Sciences\tSouth Campus",
+                    "answer_start": 554,
+                    "answer_end": 615,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is EF 204?",
+            "id": 583733,
+            "answers": [
+                {
+                    "answer_id": 646608,
+                    "document_id": 1202573,
+                    "question_id": 583733,
+                    "text": "Faculty of Education\tNorth Campus",
+                    "answer_start": 241,
+                    "answer_end": 274,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is NH305?",
+            "id": 583754,
+            "answers": [
+                {
+                    "answer_id": 646609,
+                    "document_id": 1202573,
+                    "question_id": 583754,
+                    "text": "North Campus",
+                    "answer_start": 874,
+                    "answer_end": 886,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is the John Freely Hall?",
+            "id": 583739,
+            "answers": [
+                {
+                    "answer_id": 646611,
+                    "document_id": 1202573,
+                    "question_id": 583739,
+                    "text": "South Campus",
+                    "answer_start": 636,
+                    "answer_end": 648,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is the fine art course (as ceramics) held?",
+            "id": 583753,
+            "answers": [
+                {
+                    "answer_id": 646610,
+                    "document_id": 1202573,
+                    "question_id": 583753,
+                    "text": "TB\tAnderson Hall",
+                    "answer_start": 1128,
+                    "answer_end": 1144,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Do you know where is the IB 102 room ?",
+            "id": 583781,
+            "answers": [
+                {
+                    "answer_id": 646603,
+                    "document_id": 1202573,
+                    "question_id": 583781,
+                    "text": "Faculty of Economics and Administrative Sciences\tSouth Campus",
+                    "answer_start": 554,
+                    "answer_end": 615,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "I have class at ib312. Which campus is it at?",
+            "id": 623640,
+            "answers": [
+                {
+                    "answer_id": 673661,
+                    "document_id": 1202573,
+                    "question_id": 623640,
+                    "text": "South Campus",
+                    "answer_start": 415,
+                    "answer_end": 427,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "anybody knows where the NB Building is?\n",
+            "id": 623006,
+            "answers": [
+                {
+                    "answer_id": 672424,
+                    "document_id": 1202573,
+                    "question_id": 623006,
+                    "text": "South Campus",
+                    "answer_start": 1016,
+                    "answer_end": 1028,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the building name of ALH?",
+            "id": 623007,
+            "answers": [
+                {
+                    "answer_id": 672431,
+                    "document_id": 1202573,
+                    "question_id": 623007,
+                    "text": "Albert Long Hall",
+                    "answer_start": 40,
+                    "answer_end": 56,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the location of the BM Building?",
+            "id": 623008,
+            "answers": [
+                {
+                    "answer_id": 672432,
+                    "document_id": 1202573,
+                    "question_id": 623008,
+                    "text": "North Campus",
+                    "answer_start": 170,
+                    "answer_end": 182,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the abbreviation for Institute of Biomedical engineering?",
+            "id": 623009,
+            "answers": [
+                {
+                    "answer_id": 672447,
+                    "document_id": 1202573,
+                    "question_id": 623009,
+                    "text": "Institute of Biomedical Engineering",
+                    "answer_start": 187,
+                    "answer_end": 222,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173320": [
+        {
+            "question": "What is the main library?",
+            "id": 623586,
+            "answers": [
+                {
+                    "answer_id": 673314,
+                    "document_id": 1173320,
+                    "question_id": 623586,
+                    "text": "Abdullah Kuran Library",
+                    "answer_start": 0,
+                    "answer_end": 22,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is New Hall?",
+            "id": 583817,
+            "answers": [
+                {
+                    "answer_id": 673312,
+                    "document_id": 1173320,
+                    "question_id": 583817,
+                    "text": "North Campus",
+                    "answer_start": 839,
+                    "answer_end": 851,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is the english preparatory unit located?",
+            "id": 623585,
+            "answers": [
+                {
+                    "answer_id": 673304,
+                    "document_id": 1173320,
+                    "question_id": 623585,
+                    "text": "in the School of Foreign Languages Building",
+                    "answer_start": 765,
+                    "answer_end": 808,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is the electronics laboratory?",
+            "id": 623587,
+            "answers": [
+                {
+                    "answer_id": 673315,
+                    "document_id": 1173320,
+                    "question_id": 623587,
+                    "text": "Educational Technologies Building",
+                    "answer_start": 559,
+                    "answer_end": 592,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173321": [
+        {
+            "question": "Where is the swimming pool?",
+            "id": 583818,
+            "answers": [
+                {
+                    "answer_id": 673318,
+                    "document_id": 1173321,
+                    "question_id": 583818,
+                    "text": "Hisar Campus",
+                    "answer_start": 55,
+                    "answer_end": 67,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is the gym?",
+            "id": 583819,
+            "answers": [
+                {
+                    "answer_id": 673317,
+                    "document_id": 1173321,
+                    "question_id": 583819,
+                    "text": "Hisar Campus",
+                    "answer_start": 55,
+                    "answer_end": 67,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is Hisar Campus?",
+            "id": 623588,
+            "answers": [
+                {
+                    "answer_id": 673319,
+                    "document_id": 1173321,
+                    "question_id": 623588,
+                    "text": "Overlooking the Bosphorus and the Fatih Sultan Bridge",
+                    "answer_start": 0,
+                    "answer_end": 53,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Which Institute is on hisar campus?",
+            "id": 623589,
+            "answers": [
+                {
+                    "answer_id": 673320,
+                    "document_id": 1173321,
+                    "question_id": 623589,
+                    "text": " Institute of Environmental Sciences",
+                    "answer_start": 175,
+                    "answer_end": 211,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Does someone know where's Hisar Campus'swimming pool?",
+            "id": 623590,
+            "answers": [
+                {
+                    "answer_id": 673321,
+                    "document_id": 1173321,
+                    "question_id": 623590,
+                    "text": "Overlooking the Bosphorus and the Fatih Sultan Bridge",
+                    "answer_start": 0,
+                    "answer_end": 53,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173330": [
+        {
+            "question": "What is Nil\u00fcfer's E-Mail Adress?",
+            "id": 583821,
+            "answers": [
+                {
+                    "answer_id": 673335,
+                    "document_id": 1173330,
+                    "question_id": 583821,
+                    "text": "nilufer.kirici@boun.edu.tr",
+                    "answer_start": 288,
+                    "answer_end": 314,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the email for visitors and freemovers?",
+            "id": 623601,
+            "answers": [
+                {
+                    "answer_id": 673336,
+                    "document_id": 1173330,
+                    "question_id": 623601,
+                    "text": "visitorstudents@boun.edu.tr",
+                    "answer_start": 561,
+                    "answer_end": 588,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": " Where is the international relations office?",
+            "id": 623602,
+            "answers": [
+                {
+                    "answer_id": 673401,
+                    "document_id": 1173330,
+                    "question_id": 623602,
+                    "text": "Bogazi\u00e7i UniversityOffice of International RelationsSouth CampusOFB BuildingBebek, Istanbul34342",
+                    "answer_start": 679,
+                    "answer_end": 775,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where is the international relations office in south campus?",
+            "id": 623603,
+            "answers": [
+                {
+                    "answer_id": 673403,
+                    "document_id": 1173330,
+                    "question_id": 623603,
+                    "text": "OFB Building",
+                    "answer_start": 743,
+                    "answer_end": 755,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1173334": [
+        {
+            "question": "Can I stay longer in turkey after the semester is over?",
+            "id": 583838,
+            "answers": [
+                {
+                    "answer_id": 644373,
+                    "document_id": 1173334,
+                    "question_id": 583838,
+                    "text": "As soon as the semester is officially over, you have ten days to leave the country.",
+                    "answer_start": 296,
+                    "answer_end": 379,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Can I work in turkey?",
+            "id": 583839,
+            "answers": [
+                {
+                    "answer_id": 644374,
+                    "document_id": 1173334,
+                    "question_id": 583839,
+                    "text": "To be legally employed in Turkey requires that your prospective employer apply for a permit to hire a non-TC national.",
+                    "answer_start": 1234,
+                    "answer_end": 1352,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the student residence permit dependent on?",
+            "id": 623614,
+            "answers": [
+                {
+                    "answer_id": 673575,
+                    "document_id": 1173334,
+                    "question_id": 623614,
+                    "text": "active enrollment at Bo\u011fazi\u00e7i University.",
+                    "answer_start": 254,
+                    "answer_end": 295,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1202572": [
+        {
+            "question": "What is the email address of kathryn kranzler?",
+            "id": 597084,
+            "answers": [
+                {
+                    "answer_id": 646597,
+                    "document_id": 1202572,
+                    "question_id": 597084,
+                    "text": "kathryn.kranzler@boun.edu.tr",
+                    "answer_start": 240,
+                    "answer_end": 268,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the phone number of Nilufer?",
+            "id": 597083,
+            "answers": [
+                {
+                    "answer_id": 646596,
+                    "document_id": 1202572,
+                    "question_id": 597083,
+                    "text": "+90 (212) 359 70 92",
+                    "answer_start": 132,
+                    "answer_end": 151,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is Evin Aslan's e-mail adress?",
+            "id": 623005,
+            "answers": [
+                {
+                    "answer_id": 672423,
+                    "document_id": 1202572,
+                    "question_id": 623005,
+                    "text": "erasmus-incoming@boun.edu.tr",
+                    "answer_start": 1014,
+                    "answer_end": 1042,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "TRM": [
+        {
+            "question": "What is the name for code trm 581.01?",
+            "id": 623668,
+            "answers": [
+                {
+                    "answer_id": 673711,
+                    "document_id": 1202594,
+                    "question_id": 623668,
+                    "text": "SP.TP.CURRENT SUSTAINABILITY ISSUES IN THE WORLD ECON.",
+                    "answer_start": 332,
+                    "answer_end": 386,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who teaches anatolian civilizations?",
+            "id": 623670,
+            "answers": [
+                {
+                    "answer_id": 673713,
+                    "document_id": 1202596,
+                    "question_id": 623670,
+                    "text": "EV\u0130N\u00c7 DO\u011eAN",
+                    "answer_start": 171,
+                    "answer_end": 182,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "ASIA": [
+        {
+            "question": "What is the name for code ASIL513.01?",
+            "id": 623687,
+            "answers": [
+                {
+                    "answer_id": 673730,
+                    "document_id": 1202604,
+                    "question_id": 623687,
+                    "text": "INTRODUCTION TO RUSSIAN",
+                    "answer_start": 1536,
+                    "answer_end": 1559,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Which room is ASIA549.01 in?",
+            "id": 623684,
+            "answers": [
+                {
+                    "answer_id": 673727,
+                    "document_id": 1202603,
+                    "question_id": 623684,
+                    "text": "No Room specified",
+                    "answer_start": 774,
+                    "answer_end": 791,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "AUTO": [
+        {
+            "question": "At which hours is fatique and fracture taught?",
+            "id": 623689,
+            "answers": [
+                {
+                    "answer_id": 673732,
+                    "document_id": 1202606,
+                    "question_id": 623689,
+                    "text": "11126",
+                    "answer_start": 490,
+                    "answer_end": 495,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "COGS": [
+        {
+            "question": "Which room is cogs500.01 in?",
+            "id": 623708,
+            "answers": [
+                {
+                    "answer_id": 673751,
+                    "document_id": 1202613,
+                    "question_id": 623708,
+                    "text": "BM A3 | BM A3 | BM A3",
+                    "answer_start": 108,
+                    "answer_end": 129,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "CET": [
+        {
+            "question": "What is the code for SCHOOL EXPERIENCE?",
+            "id": 623712,
+            "answers": [
+                {
+                    "answer_id": 673755,
+                    "document_id": 1202615,
+                    "question_id": 623712,
+                    "text": "CET 451",
+                    "answer_start": 1689,
+                    "answer_end": 1696,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "what is the name of CET 690.01?",
+            "id": 623735,
+            "answers": [
+                {
+                    "answer_id": 673778,
+                    "document_id": 1202623,
+                    "question_id": 623735,
+                    "text": "MASTER'S THESIS",
+                    "answer_start": 880,
+                    "answer_end": 895,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "CEM": [
+        {
+            "question": "Which hours takes ENGINEERING&MANAGERIAL ECONOMICS place?",
+            "id": 623718,
+            "answers": [
+                {
+                    "answer_id": 673761,
+                    "document_id": 1202617,
+                    "question_id": 623718,
+                    "text": "No Hours specified",
+                    "answer_start": 117,
+                    "answer_end": 135,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "EQE": [
+        {
+            "question": "Who teaches EQE 690.10?",
+            "id": 623725,
+            "answers": [
+                {
+                    "answer_id": 673768,
+                    "document_id": 1202619,
+                    "question_id": 623725,
+                    "text": "KAR\u0130N \u015eE\u015eETYAN",
+                    "answer_start": 1336,
+                    "answer_end": 1350,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "EF": [
+        {
+            "question": "Which rooms will DIR.READ.ON THE STRUC. OF FIN.MARKETS be?",
+            "id": 623733,
+            "answers": [
+                {
+                    "answer_id": 673776,
+                    "document_id": 1202621,
+                    "question_id": 623733,
+                    "text": "No Room specified",
+                    "answer_start": 678,
+                    "answer_end": 695,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "EL": [
+        {
+            "question": "Who teaches EL 790.06?",
+            "id": 623826,
+            "answers": [
+                {
+                    "answer_id": 673865,
+                    "document_id": 1202626,
+                    "question_id": 623826,
+                    "text": "NAZ BULAMUR",
+                    "answer_start": 593,
+                    "answer_end": 604,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "FE": [
+        {
+            "question": "For which hours is FE 502.01 scheduled?",
+            "id": 623832,
+            "answers": [
+                {
+                    "answer_id": 673871,
+                    "document_id": 1202630,
+                    "question_id": 623832,
+                    "text": "678",
+                    "answer_start": 300,
+                    "answer_end": 303,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "GPH": [
+        {
+            "question": "What is the long name for gph 644?",
+            "id": 623836,
+            "answers": [
+                {
+                    "answer_id": 673875,
+                    "document_id": 1202634,
+                    "question_id": 623836,
+                    "text": "INVERSION METHODS IN GEOPHYSICS",
+                    "answer_start": 896,
+                    "answer_end": 927,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "MIR": [
+        {
+            "question": "Who is the instructor of course with code MIR 581.04?",
+            "id": 623868,
+            "answers": [
+                {
+                    "answer_id": 673906,
+                    "document_id": 1202640,
+                    "question_id": 623868,
+                    "text": "MERT ARSLANALP",
+                    "answer_start": 914,
+                    "answer_end": 928,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the amount of credits you get for course INTERNATIONAL ECONOMICS&TRADE?",
+            "id": 623870,
+            "answers": [
+                {
+                    "answer_id": 673908,
+                    "document_id": 1202641,
+                    "question_id": 623870,
+                    "text": "8",
+                    "answer_start": 314,
+                    "answer_end": 315,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "INTT": [
+        {
+            "question": "What is the correct room for course INTT111.01?",
+            "id": 623872,
+            "answers": [
+                {
+                    "answer_id": 673910,
+                    "document_id": 1202642,
+                    "question_id": 623872,
+                    "text": "HD 101 | HD 101 | HD 201 | HD 201",
+                    "answer_start": 92,
+                    "answer_end": 125,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the long name of course INTT591?",
+            "id": 623876,
+            "answers": [
+                {
+                    "answer_id": 673914,
+                    "document_id": 1202643,
+                    "question_id": 623876,
+                    "text": "DIRECTED READINGS IN INTERNATIONAL TRADE MANAGEMENT I",
+                    "answer_start": 927,
+                    "answer_end": 980,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "LAW": [
+        {
+            "question": "To which hours do i have to go to FUNDAMENTAL TERMS OF CIVIL LAW AND LAW OF PERSONS?",
+            "id": 623878,
+            "answers": [
+                {
+                    "answer_id": 673916,
+                    "document_id": 1202644,
+                    "question_id": 623878,
+                    "text": "236",
+                    "answer_start": 470,
+                    "answer_end": 473,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "LS": [
+        {
+            "question": "What days is EDUCATIONAL POLICIES happening?",
+            "id": 623880,
+            "answers": [
+                {
+                    "answer_id": 673918,
+                    "document_id": 1202645,
+                    "question_id": 623880,
+                    "text": "WWW",
+                    "answer_start": 615,
+                    "answer_end": 618,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "PA": [
+        {
+            "question": "In which room is PA211.03?",
+            "id": 623741,
+            "answers": [
+                {
+                    "answer_id": 673784,
+                    "document_id": 1202631,
+                    "question_id": 623741,
+                    "text": "H\u00dcLYA AT\u00d6LYE | H\u00dcLYA AT\u00d6LYE | H\u00dcLYA AT\u00d6LYE | H\u00dcLYA AT\u00d6LYE",
+                    "answer_start": 88,
+                    "answer_end": 145,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where will sculpting class take place tomorrow?",
+            "id": 623793,
+            "answers": [
+                {
+                    "answer_id": 673832,
+                    "document_id": 1202631,
+                    "question_id": 623793,
+                    "text": "REV\u0130R ALTI | REV\u0130R ALTI | REV\u0130R ALTI | REV\u0130R ALTI",
+                    "answer_start": 450,
+                    "answer_end": 499,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "who is the teacher for applied arts?",
+            "id": 623833,
+            "answers": [
+                {
+                    "answer_id": 673872,
+                    "document_id": 1202631,
+                    "question_id": 623833,
+                    "text": "MUTLU M.ERBAY",
+                    "answer_start": 1595,
+                    "answer_end": 1608,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "GED": [
+        {
+            "question": "Who instructs GED 507.01?",
+            "id": 623835,
+            "answers": [
+                {
+                    "answer_id": 673874,
+                    "document_id": 1202633,
+                    "question_id": 623835,
+                    "text": "HALUK \u00d6ZENER",
+                    "answer_start": 91,
+                    "answer_end": 103,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "HUM": [
+        {
+            "question": "How many ects do you get awarded for CULTURAL ENCOUNTERS I?",
+            "id": 623841,
+            "answers": [
+                {
+                    "answer_id": 673880,
+                    "document_id": 1202637,
+                    "question_id": 623841,
+                    "text": "6",
+                    "answer_start": 268,
+                    "answer_end": 269,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "INCT": [
+        {
+            "question": "Tell me the short code for TERM PROJECT II",
+            "id": 623846,
+            "answers": [
+                {
+                    "answer_id": 673885,
+                    "document_id": 1202639,
+                    "question_id": 623846,
+                    "text": "INCT591",
+                    "answer_start": 1145,
+                    "answer_end": 1152,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1202576": [
+        {
+            "question": "Which line goes to sisli?",
+            "id": 597089,
+            "answers": [
+                {
+                    "answer_id": 646619,
+                    "document_id": 1202576,
+                    "question_id": 597089,
+                    "text": "59R",
+                    "answer_start": 24,
+                    "answer_end": 27,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Which bus drives to taksim?",
+            "id": 597090,
+            "answers": [
+                {
+                    "answer_id": 646620,
+                    "document_id": 1202576,
+                    "question_id": 597090,
+                    "text": "559C",
+                    "answer_start": 95,
+                    "answer_end": 99,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Where does bus 43R go to?",
+            "id": 623031,
+            "answers": [
+                {
+                    "answer_id": 672483,
+                    "document_id": 1202576,
+                    "question_id": 623031,
+                    "text": "R.Hisar\u00fcst\u00fc-Kabata\u015f",
+                    "answer_start": 4,
+                    "answer_end": 23,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ],
+    "1202577": [
+        {
+            "question": "What is the phone number for bogazici taxi?",
+            "id": 597091,
+            "answers": [
+                {
+                    "answer_id": 646621,
+                    "document_id": 1202577,
+                    "question_id": 597091,
+                    "text": "(0212) 263 23 32",
+                    "answer_start": 14,
+                    "answer_end": 30,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the phone number for dogan taxi?",
+            "id": 597092,
+            "answers": [
+                {
+                    "answer_id": 646622,
+                    "document_id": 1202577,
+                    "question_id": 597092,
+                    "text": "(0212) 265 32 71",
+                    "answer_start": 42,
+                    "answer_end": 58,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is the number for g\u00fcnaydin taxi?",
+            "id": 597093,
+            "answers": [
+                {
+                    "answer_id": 646623,
+                    "document_id": 1202577,
+                    "question_id": 597093,
+                    "text": "(0212) 265 32 17",
+                    "answer_start": 73,
+                    "answer_end": 89,
+                    "answer_category": null
+                }
+            ],
+            "is_impossible": false
+        }
+    ]
+}
