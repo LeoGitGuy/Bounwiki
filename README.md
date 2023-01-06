@@ -31,7 +31,7 @@ for more options and detailed information on each option please run `python run.
 
 #### Option 1: Gradio
 
-Use Huggingface to directly host gradio applications (see [here](https://huggingface.co/docs/hub/spaces-sdks-gradio)). To do this create a new gradio space, add all files from this repository and the `app.py` file will automatically load the application. Alternatively this file can also be used to build a docker container or the app from huggingface can be embedded into other websites as iframe (see [here](https://huggingface.co/docs/hub/spaces-sdks-gradio#embed-gradio-spaces-on-other-webpages))
+Use Huggingface to directly host gradio applications (see [here](https://huggingface.co/docs/hub/spaces-sdks-gradio)). To do this create a new gradio space, add all files from this repository and the `app.py` file will automatically load the application. Alternatively this file can also be used to build a docker container or the app from huggingface can be embedded into other websites as iframe (see [here](https://huggingface.co/docs/hub/spaces-sdks-gradio#embed-gradio-spaces-on-other-webpages)). It is already hosted on a [gradio space](https://huggingface.co/spaces/LeoGitGuy/BounWikiQA) in hugginface.
 
 #### Option 2: Docker
 Another repository was created at [huggingface/BounWiki](https://huggingface.co/spaces/LeoGitGuy/BounWiki/tree/main), which contains a Dockerfile, a main.py file using Fastapi and a static folder with HTML, CSS and Javascript for serving the application. If you want to modify this, you can clone it directly from there.
