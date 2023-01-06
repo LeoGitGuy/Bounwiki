@@ -1,8 +1,4 @@
-git+https://github.com/deepset-ai/haystack.git#egg=farm-haystack[colab]
-#torch-sparse
-#torch-cluster
-#torch-spline-conv
-#torch-geometric 
+farm-haystack
 grpcio==1.48.2
 pygraphviz
 requests
@@ -11,3 +7,6 @@ numpy
 beautifulsoup4
 torch
 torch-scatter
+argparse
+csv
+pickle
