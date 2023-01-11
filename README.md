@@ -1,6 +1,6 @@
 # BounWiki: A transformer-based QA-Engine for Bogazici University
 
-This is the official repository of my report [**BounWiki: A transformer-based QA-Engine for Bogazici University**](./JointXplore.pdf) by Leonard Schenk for the course Transformer Based Pretraining in Natural Language Processing.
+This is the official repository of my report [**BounWiki: A transformer-based QA-Engine for Bogazici University**](./BounWiki.pdf) by Leonard Schenk for the course Transformer Based Pretraining in Natural Language Processing.
 ## Abstract
 In this research, we propose the use of a transformer-based neural network for answering questions about Bogazici University. The proposed architecture utilizes a context embedding space to retrieve relevant documents based on similarity to an initial query and employs reader models to extract or generate the corresponding answer. We also conduct a comprehensive study comparing various models and perform experiments with different subsets of the context and validation dataset to evaluate the strengths and weaknesses of our approach. Results indicate that larger, more capable models tend to perform better, but still struggle with certain aspects of the context and validation dataset. To facilitate further research on this topic, besides this codebase, a demo version can be accessed on [Huggingface](https://huggingface.co/spaces/LeoGitGuy/BounWiki).
 ## Rerunning Evaluation Experiments
